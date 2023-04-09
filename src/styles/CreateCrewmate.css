@@ -1,0 +1,12 @@
+.make-crewmate {
+    display: flex;
+    flex-direction: column;
+}
+
+.make-crewmate form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}

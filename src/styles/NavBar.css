@@ -1,0 +1,17 @@
+.navbar-container {
+    height: 100%;
+    width: 12%; 
+    position: fixed;
+    top: 0; 
+    left: 0;
+    background-color: #232323;
+    padding-top: 40px;
+    padding-left: 10px; 
+    padding-right: 10px; 
+    overflow-y: scroll;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 25px;
+    /* justify-content: center; */
+}
